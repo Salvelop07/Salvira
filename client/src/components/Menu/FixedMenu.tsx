@@ -42,7 +42,7 @@ const FixedMenu: React.FC<FixedMenuProps> = (props) => {
           active={pathname === routes["HOME"]}
           header
         >
-          Project Management
+          Salvira
         </Menu.Item>
         <Menu.Item
           as={Link}
